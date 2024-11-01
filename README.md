@@ -5,8 +5,6 @@ The teaser video can be viewed at:
 ![](https://www.youtube.com/watch?v=mGKfjxuV2BM&ab_channel=EugeneDakin)
 
 Install instructions are:
-
-Install instructions are:
 1) install Raspberry Pi OS (64-bit)
 2) Open a terminal and type the following commands:
 3) sudo apt install swig python3-dev
