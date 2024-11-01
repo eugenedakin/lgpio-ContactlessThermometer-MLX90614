@@ -23,4 +23,5 @@ Install instructions are:
 14) run the program with something like: 'sudo ./MLX90614'
 
 Breadboard Layout
+
 ![](https://github.com/eugenedakin/lgpio-ContactlessThermometer-MLX90614/blob/main/BreadBoard.png)
