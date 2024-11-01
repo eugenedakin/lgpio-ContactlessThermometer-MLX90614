@@ -25,3 +25,7 @@ Install instructions are:
 Breadboard Layout
 
 ![](https://github.com/eugenedakin/lgpio-ContactlessThermometer-MLX90614/blob/main/BreadBoard.png)
+
+Screen Grab of running program
+
+![](https://github.com/eugenedakin/lgpio-ContactlessThermometer-MLX90614/blob/main/ScreenGrab.png)
