@@ -1,8 +1,7 @@
 # lgpio-ContactlessThermometer-MLX90614
 Eugene uses the Raspberry Pi to detect ambient and object temperature. Thsi is a non-contact thermometer using GY-906 sensor on a MLX90614 board, and is useful for temperature monitoring and many other practical tasks. This was created in Xojo 2023 r4. 
 
-The teaser video can be viewed at: 
-![](https://www.youtube.com/watch?v=mGKfjxuV2BM&ab_channel=EugeneDakin)
+The teaser video can be viewed at: [![MPU6050 Xojo Teaser Video](https://github.com/eugenedakin/lgpio-MPU6050-Accelerometer-Gyroscope/blob/main/PIMPU6050-300x300.png)](https://www.youtube.com/watch?v=mGKfjxuV2BM&ab_channel=EugeneDakin "MLX90614 Teaser")
 
 Install instructions are:
 1) install Raspberry Pi OS (64-bit)
